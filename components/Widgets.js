@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable jsx-a11y/alt-text */
 import { SearchIcon } from '@heroicons/react/outline'
 import Image from 'next/image'
 import React from 'react'

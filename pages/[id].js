@@ -40,7 +40,7 @@ function PostPage({ trendingResults, followResults, providers }) {
                 ),
                 (snapshot) => setComments(snapshot.docs)
             ),
-            [db, id]
+            [id]
     );
 
 

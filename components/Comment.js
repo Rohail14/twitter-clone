@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { ChartBarIcon, ChatIcon, DotsHorizontalIcon, HeartIcon, ShareIcon } from '@heroicons/react/outline'
 import React from 'react'
 import Moment from 'react-moment'
